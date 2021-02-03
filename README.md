@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey Stranger 👋
+### I am Diksha and I am so glad that you stopped to read about me! :smiley:
+
 
 <!--
 **FireQueen-3010/FireQueen-3010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
