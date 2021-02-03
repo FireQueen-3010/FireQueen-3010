@@ -1,5 +1,9 @@
 ### Hey Stranger 👋
-### I am Diksha and I am so glad that you stopped to read about me! :smiley:
+## I am Diksha and I am so glad that you stopped to read about me! :smiley:
+
+#First, I would like to talk about all the fields that I work on/have worked on:
+- Programming Languages : Java, Python, C++, C, R
+
 
 
 <!--
