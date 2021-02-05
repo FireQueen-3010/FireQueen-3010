@@ -8,7 +8,7 @@
 
 ## Connect with me on :-
 
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />](https://www.linkedin.com/in/srinivas-m-298764191/) &emsp;  &ensp; [<img height="32" width="32" src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" />](https://www.codechef.com/users/codey_srinivas) &emsp;  &ensp;[<img height="32" width="32" src="https://miro.medium.com/max/312/1*vC6VtkV4Di6HnbiX_EjDvQ.png" />](https://binarysearch.com/@/Codey_Srinivas) &emsp;  &ensp;[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/hackerrank.svg" />](https://www.hackerrank.com/Coder_Srinivas)<br/>
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />](www.linkedin.com/in/diksha-patro-b-a8907b162) &emsp;  &ensp; [<img height="32" width="32" src="https://miro.medium.com/max/312/1*vC6VtkV4Di6HnbiX_EjDvQ.png" />](https://binarysearch.com/@/FireQueen) &emsp;  &ensp;[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/hackerrank.svg" />](https://www.hackerrank.com/Fire_Queen)<br/>
 
 
 - 💻 I'm a technical writer at GeeksforGeeks
