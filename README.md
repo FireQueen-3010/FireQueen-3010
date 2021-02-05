@@ -19,7 +19,7 @@
 
 - 💻 I'm a technical writer at GeeksforGeeks
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Advanced CSS and Graphic Designing
+- 🌱 I’m currently learning Advanced CSS, Graphic Designing & Competitive Programming
 - 👯 I’m looking to collaborate on my developing startup
 - 🤔 I’m looking for help with MongoDB
 - 💬 Ask me about anything
