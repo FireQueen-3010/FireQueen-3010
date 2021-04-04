@@ -27,4 +27,4 @@
 - 🥅 2021 Goals : Contribute more towards Open Source Projects and get a recognition for my startup
 - ⚡ Fun fact: I am super versatile and I like to dance
 
-[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=FireQueen-3010&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Diksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=FireQueen-3010&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
