@@ -17,7 +17,7 @@
 
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />](www.linkedin.com/in/diksha-patro-b-a8907b162) &emsp;  &ensp; [<img height="32" width="32" src="https://miro.medium.com/max/312/1*vC6VtkV4Di6HnbiX_EjDvQ.png" />](https://binarysearch.com/@/FireQueen) &emsp;  &ensp;[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/hackerrank.svg" />](https://www.hackerrank.com/Fire_Queen)<br/>
 
-
+- 👐 I'm an open source contributor gssoc'21
 - 💻 I'm a technical writer at GeeksforGeeks
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Advanced CSS, Graphic Designing & Competitive Programming
