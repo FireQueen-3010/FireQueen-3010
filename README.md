@@ -21,7 +21,7 @@
 - 👐 I'm an open source contributor gssoc'21
 - 💻 I'm a technical writer at GeeksforGeeks
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Advanced CSS, Graphic Designing & Competitive Programming
+- 🌱 I’m currently learning React, Node.js & Competitive Programming
 - 👯 I’m looking to collaborate on my developing startup
 - 🤔 I’m looking for help with MongoDB
 - 💬 Ask me about anything
