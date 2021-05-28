@@ -7,7 +7,6 @@
    * Competitive programming 👩‍💻
    * Graphic Design & Freelancing ✨
    * Dropshipping 🛒
-   * Startup & Podcast🤸‍
    * Youtube content creation 📽
    * Author 📝
 
@@ -22,15 +21,14 @@
 
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />](www.linkedin.com/in/diksha-patro-b-a8907b162) &emsp;  &ensp; [<img height="32" width="32" src="https://miro.medium.com/max/312/1*vC6VtkV4Di6HnbiX_EjDvQ.png" />](https://binarysearch.com/@/FireQueen) &emsp;  &ensp;[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/hackerrank.svg" />](https://www.hackerrank.com/Fire_Queen)<br/>
 
-- 👐 I'm an open source contributor gssoc'21
+- 👐 I was one of the top open source contributors of gssoc'21
 - 💻 I'm a technical writer at GeeksforGeeks
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning React, Node.js & Competitive Programming
-- 👯 I’m looking to collaborate on my developing startup
-- 🤔 I’m looking for help with MongoDB
+- 🤔 I’m looking for help with MongoDB and internship opportunities
 - 💬 Ask me about anything
-- 🥅 2021 Goals : Contribute more towards Open Source Projects and get a recognition for my startup
-- ⚡ Fun fact: I am super versatile and I like to dance
+- 🥅 2021 Goals : Contribute more towards Open Source Projects and get better at competitive programming.
+- ⚡ Fun facts: I am super versatile, pentalingual and ambidextrous
 
 
 
