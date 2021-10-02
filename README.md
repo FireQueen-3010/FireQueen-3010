@@ -33,4 +33,5 @@
 
 
 
-[![Diksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=FireQueen-3010&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Diksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=FireQueen-3010&theme=cobalt&show_icons=true)(https://github-readme-streak-stats.herokuapp.com/?user=FireQueen-3010&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+  
