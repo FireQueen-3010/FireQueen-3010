@@ -7,7 +7,6 @@
    * Competitive programming 👩‍💻
    * Graphic Design & Freelancing ✨
    * Dropshipping 🛒
-   * Youtube content creation 📽
    * Author 📝
 
 ## Programming Languages and Technologies  
@@ -24,7 +23,7 @@
 - 👐 I was one of the top open source contributors of gssoc'21
 - 💻 I'm a technical writer at GeeksforGeeks
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning React, Node.js & Competitive Programming
+- 🌱 I’m the Google Developer Student Club Lead of LBCE and a Beta MLSA 
 - 🤔 I’m looking for help with MongoDB and internship opportunities
 - 💬 Ask me about anything
 - 🥅 2021 Goals : Contribute more towards Open Source Projects and get better at competitive programming.
