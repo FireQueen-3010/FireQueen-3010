@@ -32,3 +32,5 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FireQueen-3010&show_icons=true&theme=jolly" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FireQueen-3010&theme=jolly" />
 </p>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=fireQueen-3010&bg_color=1F222E&color=ffffff&line=61DBFB&point=FFFFFF&hide_border=true" /></a>
